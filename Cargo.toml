@@ -1,0 +1,8 @@
+[package]
+name = "alsa-refinement"
+version = "0.1.0"
+authors = ["sniperrifle2004"]
+edition = "2018"
+
+[dependencies]
+alsa = "0.4.1"
